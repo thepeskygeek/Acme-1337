@@ -1,6 +1,6 @@
 use ExtUtils::MakeMaker;
 
 WriteMakefile(
-   NAME => 'Your::Module',
-   VERSION_FROM => 'lib/Your/Module.pm'
+   NAME => 'Acme::1337',
+   VERSION_FROM => 'lib/Acme/L337.pm'
 );
