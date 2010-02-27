@@ -32,6 +32,10 @@ Acme::L337 is a perl module to translate any string to leet speak.
 
 =head1 FUNCTIONS
 
-=item $leetspeaktranslator->translate($string)
+=over
+
+=item $leetspeaktranslator->translate("string")
 
 Translates the $string and returns the translated string.
+
+=back
